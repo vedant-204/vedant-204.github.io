@@ -27,3 +27,6 @@ yarn-error.log*
 
 Server/node_modules
 Server/config.js
+
+# to use later in future
+src/components/Projects/Projects.js

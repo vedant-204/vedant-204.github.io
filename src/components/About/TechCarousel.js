@@ -1,7 +1,7 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
 import { CgCPlusPlus } from "react-icons/cg";
-import {Carousel} from 'react-bootstrap';
+// import {Carousel} from 'react-bootstrap';
 import {
   DiJavascript1,
   DiReact,
