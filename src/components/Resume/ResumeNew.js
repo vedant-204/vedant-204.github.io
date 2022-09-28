@@ -9,7 +9,7 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  "https://raw.githubusercontent.com/vedant-204/vedant204.github.io/main/src/Assets/vedant-resume.pdf";
+  "https://github.com/vedant-204/vedant-204.github.io/raw/main/src/Assets/vedant-resume.pdf";
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
